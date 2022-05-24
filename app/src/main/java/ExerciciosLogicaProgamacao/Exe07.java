@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Exercicios;
+package ExerciciosLogicaProgamacao;
 
 import java.util.Scanner;
 
@@ -25,7 +25,8 @@ public class Exe07 {
 
         double calculoFahrenheit = (tempCelsius * 1.8) + 32;
 
-        System.out.printf("A temperatura em graus Fahrenheit é de: %.2f graus.", calculoFahrenheit);
+        System.out.printf("A temperatura em graus Fahrenheit é de: %.2f graus.",
+                calculoFahrenheit);
 
     }
 
